@@ -14,7 +14,7 @@ export default function App() {
   };
   return (
     <div>
-      <h1>Counter app</h1>
+      <h1>Counter App</h1>
       <p1>{count}</p1>
       <br />
 
